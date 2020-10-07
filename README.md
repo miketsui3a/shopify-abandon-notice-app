@@ -17,8 +17,8 @@ cd shopify-abandon-notice-app
 
 Using the [Shopify-App-CLI](https://github.com/Shopify/shopify-app-cli) run:
 
-```sh
-~/ $ shopify serve
+```
+shopify serve
 ```
 
 follow the instruction in the terminal
