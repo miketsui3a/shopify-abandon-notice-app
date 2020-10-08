@@ -13,7 +13,11 @@ then run:
 ```
 cd shopify-abandon-notice-app
 ```
-
+Add
+```
+SCOPES=write_products,write_customers,write_draft_orders,read_script_tags,write_script_tags,read_customers,read_themes,write_themes,read_orders,write_price_rules,write_discounts
+```
+into the .env file.
 
 Using the [Shopify-App-CLI](https://github.com/Shopify/shopify-app-cli) run:
 
